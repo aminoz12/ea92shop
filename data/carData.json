@@ -1,0 +1,54 @@
+{
+  "Audi": [
+    "A1", "A2", "A3", "A3 Sportback", "A3 Cabriolet", "A4", "A4 Avant", "A4 Allroad", "A5", "A5 Sportback", "A5 Cabriolet",
+    "A6", "A6 Avant", "A6 Allroad", "A7", "A7 Sportback", "A8", "Q2", "Q3", "Q3 Sportback", "Q4 e-tron", "Q5", "Q5 Sportback", 
+    "Q7", "Q8", "TT", "TTS", "TT RS", "R8", "RS3", "RS4", "RS5", "RS6", "RS7", "S3", "S4", "S5", "SQ5", "SQ7", "SQ8", "e-tron GT"
+  ],
+  "BMW": [
+    "1 Series", "2 Series", "2 Series Active Tourer", "3 Series", "3 Series Touring", "4 Series", "4 Series Gran Coupe", 
+    "4 Series Convertible", "5 Series", "5 Series Touring", "6 Series", "6 Series Gran Turismo", "7 Series", "8 Series", 
+    "X1", "X2", "X3", "X4", "X5", "X6", "X7", "i3", "i4", "i7", "iX", "Z4", "M2", "M3", "M4", "M5", "M8"
+  ],
+  "Mercedes-Benz": [
+    "A-Class", "B-Class", "C-Class", "C-Class Estate", "E-Class", "E-Class Estate", "S-Class", "CLA", "CLA Shooting Brake", 
+    "CLS", "GLA", "GLB", "GLC", "GLC Coupe", "GLE", "GLE Coupe", "GLS", "G-Class", "AMG GT", "V-Class"
+  ],
+  "Toyota": [
+    "Aygo", "Yaris", "Yaris Cross", "Corolla", "Corolla Touring Sports", "Camry", "Avalon", "C-HR", "RAV4", "Highlander", 
+    "Land Cruiser", "Hilux", "Supra", "Prius", "Mirai", "Proace", "Proace City"
+  ],
+  "Ford": [
+    "Ka", "Fiesta", "Focus", "Focus Active", "Fusion", "Mondeo", "Mustang", "EcoSport", "Kuga", "Escape", "Edge", "Explorer", 
+    "Expedition", "F-150", "Ranger", "Bronco", "Transit"
+  ],
+  "Volkswagen": [
+    "up!", "Polo", "Golf", "Golf Variant", "Golf GTI", "Golf R", "Passat", "Passat Variant", "Arteon", "T-Roc", "Tiguan", 
+    "Touareg", "ID.3", "ID.4", "ID. Buzz"
+  ],
+  "Honda": [
+    "Civic", "Civic Type R", "Accord", "Fit", "Jazz", "Insight", "HR-V", "CR-V", "Pilot", "Odyssey", "Ridgeline", "Clarity"
+  ],
+  "Hyundai": [
+    "i10", "i20", "i30", "i30 Fastback", "i30 Wagon", "Elantra", "Sonata", "Tucson", "Santa Fe", "Kona", "Ioniq", "Palisade"
+  ],
+  "Kia": [
+    "Picanto", "Rio", "Ceed", "Ceed Sportswagon", "Forte", "Optima", "Stinger", "Sportage", "Sorento", "Seltos", "EV6"
+  ],
+  "Nissan": [
+    "Micra", "Versa", "Sentra", "Altima", "Maxima", "370Z", "Juke", "Qashqai", "Rogue", "X-Trail", "Murano", "Pathfinder", 
+    "Patrol", "GT-R", "Leaf", "Note"
+  ],
+  "Peugeot": [
+    "108", "208", "208 GTi", "308", "308 SW", "408", "508", "2008", "3008", "5008", "Rifter", "Traveller"
+  ],
+  "Renault": [
+    "Twingo", "Clio", "Clio RS", "Megane", "Megane Estate", "Talisman", "Kadjar", "Captur", "Arkana", "Koleos", "Scenic", "Zoe", "Twizy"
+  ],
+  "Tesla": [
+    "Roadster", "Model S", "Model 3", "Model X", "Model Y", "Cybertruck", "Semi"
+  ],
+  "Volvo": [
+    "V40", "V60", "S60", "S90", "XC40", "XC60", "XC90", "C40 Recharge"
+  ]
+}
+

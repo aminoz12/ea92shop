@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Pare-chocs",
+    "slug": "pare-chocs"
+  },
+  {
+    "id": "2",
+    "name": "Calandres & Grilles avant",
+    "slug": "calandres-grilles-avant"
+  },
+  {
+    "id": "3",
+    "name": "Rétroviseurs & Coques",
+    "slug": "retroviseurs-coques"
+  },
+  {
+    "id": "4",
+    "name": "Éclairages (phares, feux, antibrouillards)",
+    "slug": "eclairages"
+  },
+  {
+    "id": "5",
+    "name": "Ailes & Passages de roues",
+    "slug": "ailes-passages-roues"
+  },
+  {
+    "id": "6",
+    "name": "Radiateurs & Refroidissement (eau, clim, intercooler)",
+    "slug": "radiateurs-refroidissement"
+  },
+  {
+    "id": "7",
+    "name": "Capots & Hayons",
+    "slug": "capots-hayons"
+  },
+  {
+    "id": "8",
+    "name": "Renforts & Traverses avant/arrière",
+    "slug": "renforts-traverses"
+  },
+  {
+    "id": "9",
+    "name": "Buses d'air & Conduits",
+    "slug": "buses-air-conduits"
+  }
+]

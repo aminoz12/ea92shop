@@ -1,0 +1,163 @@
+[
+  {
+    "id": "1",
+    "name": "Pare-chocs avant universel",
+    "slug": "pare-chocs-avant-universel",
+    "price": 245.99,
+    "category": "pare-chocs",
+    "description": "Pare-chocs avant haute qualité en ABS renforcé. Compatible avec la plupart des modèles de voitures. Installation facile avec kit de montage inclus.",
+    "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=800&q=80",
+    "inStock": true,
+    "brand": "AutoPro",
+    "specifications": {
+      "Matériau": "ABS renforcé",
+      "Poids": "8.5 kg",
+      "Garantie": "2 ans"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Aile avant droite",
+    "slug": "aile-avant-droite",
+    "price": 189.50,
+    "category": "ailes-passages-roues",
+    "description": "Aile avant droite en acier galvanisé. Finition parfaite et ajustement précis. Prête à peindre.",
+    "image": "https://images.unsplash.com/photo-1552519507-cf90cd659d4b?w=800&q=80",
+    "inStock": true,
+    "brand": "CarParts Pro",
+    "specifications": {
+      "Matériau": "Acier galvanisé",
+      "Côté": "Droit",
+      "Traitement": "Anti-corrosion"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Phare LED avant gauche",
+    "slug": "phare-led-avant-gauche",
+    "price": 329.99,
+    "category": "eclairages",
+    "description": "Phare LED haute performance avec technologie DRL intégrée. Éclairage puissant et économe en énergie.",
+    "image": "https://images.unsplash.com/photo-1615906655593-ad0386982a0f?w=800&q=80",
+    "inStock": true,
+    "brand": "LightTech",
+    "specifications": {
+      "Type": "LED",
+      "Puissance": "55W",
+      "Certification": "E-Mark"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Rétroviseur électrique droit",
+    "slug": "retroviseur-electrique-droit",
+    "price": 125.00,
+    "category": "retroviseurs-coques",
+    "description": "Rétroviseur latéral droit avec réglage électrique et fonction de dégivrage. Compatible avec plusieurs modèles.",
+    "image": "https://images.unsplash.com/photo-1597821839061-2dc89f4f6d4a?w=800&q=80",
+    "inStock": false,
+    "brand": "MirrorMax",
+    "specifications": {
+      "Type": "Électrique",
+      "Fonction": "Chauffant",
+      "Côté": "Droit"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Capot moteur en aluminium",
+    "slug": "capot-moteur-aluminium",
+    "price": 425.00,
+    "category": "capots-hayons",
+    "description": "Capot moteur léger en aluminium de haute qualité. Réduit le poids du véhicule tout en offrant une excellente résistance.",
+    "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=800&q=80",
+    "inStock": true,
+    "brand": "AluminumParts",
+    "specifications": {
+      "Matériau": "Aluminium",
+      "Poids": "6.2 kg",
+      "Finition": "Prêt à peindre"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Feux arrière LED (paire)",
+    "slug": "feux-arriere-led-paire",
+    "price": 278.50,
+    "category": "eclairages",
+    "description": "Ensemble complet de feux arrière LED avec design moderne. Installation plug-and-play.",
+    "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f3c89?w=800&q=80",
+    "inStock": true,
+    "brand": "LightTech",
+    "specifications": {
+      "Type": "LED",
+      "Contenu": "Paire (gauche + droite)",
+      "Certification": "E-Mark"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Aile arrière gauche",
+    "slug": "aile-arriere-gauche",
+    "price": 165.00,
+    "category": "ailes-passages-roues",
+    "description": "Aile arrière gauche en acier de qualité OEM. Ajustement parfait garanti.",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=80",
+    "inStock": true,
+    "brand": "CarParts Pro",
+    "specifications": {
+      "Matériau": "Acier",
+      "Côté": "Gauche",
+      "Qualité": "OEM"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Grille de calandre chrome",
+    "slug": "grille-calandre-chrome",
+    "price": 95.99,
+    "category": "calandres-grilles-avant",
+    "description": "Grille de calandre avant en ABS avec finition chromée. Donne un look premium à votre véhicule.",
+    "image": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=800&q=80",
+    "inStock": true,
+    "brand": "StyleAuto",
+    "specifications": {
+      "Matériau": "ABS",
+      "Finition": "Chrome",
+      "Style": "Premium"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Barre LED supplémentaire",
+    "slug": "barre-led-supplementaire",
+    "price": 156.00,
+    "category": "eclairages",
+    "description": "Barre LED de travail 20 pouces. Idéale pour l'éclairage additionnel off-road ou professionnel.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+    "inStock": true,
+    "brand": "OffRoadPro",
+    "specifications": {
+      "Taille": "20 pouces",
+      "Puissance": "120W",
+      "Étanchéité": "IP68"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Spoiler arrière sport",
+    "slug": "spoiler-arriere-sport",
+    "price": 215.00,
+    "category": "pare-chocs",
+    "description": "Spoiler arrière sportif en fibre de carbone. Design aérodynamique pour améliorer les performances.",
+    "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800&q=80",
+    "inStock": true,
+    "brand": "SportLine",
+    "specifications": {
+      "Matériau": "Fibre de carbone",
+      "Style": "Sport",
+      "Installation": "Kit inclus"
+    }
+  }
+]
+
