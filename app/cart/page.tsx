@@ -7,6 +7,9 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import { Plus, Minus, Trash2, ShoppingBag, ArrowRight } from "lucide-react";
 
+// Force dynamic rendering for this page
+export const dynamic = 'force-dynamic';
+
 export default function CartPage() {
   const [mounted, setMounted] = useState(false);
   const { items, updateQuantity, removeItem, getTotalPrice } = useCartStore();

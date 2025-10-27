@@ -9,6 +9,9 @@ import { motion } from "framer-motion";
 import { CreditCard, Truck, CheckCircle } from "lucide-react";
 import Image from "next/image";
 
+// Force dynamic rendering for this page
+export const dynamic = 'force-dynamic';
+
 export default function CheckoutPage() {
   const router = useRouter();
   const [mounted, setMounted] = useState(false);
