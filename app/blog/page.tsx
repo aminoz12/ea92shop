@@ -89,11 +89,11 @@ export default function BlogPage() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 z-10">
           <div className="text-center">
             <h1 className="text-[43px] lg:text-[55px] font-bold leading-tight tracking-tight">
-              Conseils d'<span className="relative inline-block text-[#ff5757]">
+              Conseils d&apos;<span className="relative inline-block text-[#ff5757]">
                 experts
                 <span className="absolute bottom-1 left-0 w-full h-1 bg-gradient-to-r from-[#ff5757] to-[#ff7777] rounded-full"></span>
               </span>,<br/>
-              Guides d'achat et actualités<br/>
+              Guides d&apos;achat et actualités<br/>
               Sur les pièces automobiles
             </h1>
           </div>

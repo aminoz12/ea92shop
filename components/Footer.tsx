@@ -111,7 +111,7 @@ export default function Footer() {
             <ul className="space-y-2 sm:space-y-3 text-xs sm:text-sm text-gray-400">
               <li className="flex items-start space-x-2">
                 <MapPin size={16} className="sm:w-[18px] sm:h-[18px] mt-1 flex-shrink-0" />
-                <span>123 Rue de l'Auto, 75001 Paris, France</span>
+                <span>123 Rue de l&apos;Auto, 75001 Paris, France</span>
               </li>
               <li className="flex items-center space-x-2">
                 <Phone size={16} className="sm:w-[18px] sm:h-[18px] flex-shrink-0" />

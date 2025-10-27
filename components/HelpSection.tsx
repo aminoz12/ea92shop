@@ -216,10 +216,10 @@ export default function HelpSection() {
         {/* Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-6 text-gray-900">
-            Besoin d'aide pour trouver la bonne pièce ?
+            Besoin d&apos;aide pour trouver la bonne pièce ?
           </h2>
           <p className="text-gray-600 text-lg md:text-xl max-w-3xl mx-auto">
-            Notre équipe d'experts est disponible 7j/7 pour vous conseiller et vous aider à
+            Notre équipe d&apos;experts est disponible 7j/7 pour vous conseiller et vous aider à
             trouver exactement ce dont vous avez besoin pour votre véhicule.
           </p>
         </div>
@@ -410,7 +410,7 @@ export default function HelpSection() {
               <Clock size={24} className="text-primary" />
             </div>
             <div>
-              <h4 className="font-bold mb-1 text-gray-900">Horaires d'ouverture</h4>
+              <h4 className="font-bold mb-1 text-gray-900">Horaires d&apos;ouverture</h4>
               <p className="text-gray-600 text-sm">Lun - Dim : 8h00 - 22h00</p>
             </div>
           </div>
@@ -421,7 +421,7 @@ export default function HelpSection() {
             </div>
             <div>
               <h4 className="font-bold mb-1 text-gray-900">Notre Magasin</h4>
-              <p className="text-gray-600 text-sm">123 Rue de l'Auto, Paris</p>
+              <p className="text-gray-600 text-sm">123 Rue de l&apos;Auto, Paris</p>
             </div>
           </div>
 
@@ -431,7 +431,7 @@ export default function HelpSection() {
             </div>
             <div>
               <h4 className="font-bold mb-1 text-gray-900">Equipe Expert</h4>
-              <p className="text-gray-600 text-sm">+10 ans d'expérience</p>
+              <p className="text-gray-600 text-sm">+10 ans d&apos;expérience</p>
             </div>
           </div>
         </div>
