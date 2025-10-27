@@ -1,7 +1,6 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import ProductCard from "@/components/ProductCard";
@@ -9,10 +8,12 @@ import { getProducts, getCategories } from "@/lib/api";
 import { Product, Category } from "@/types";
 import { Grid, List, ChevronLeft, ChevronRight, Filter, X } from "lucide-react";
 
+// Force dynamic rendering for this page
+export const dynamic = 'force-dynamic';
+
 const ITEMS_PER_PAGE = 20;
 
 export default function ShopPage() {
-  const searchParams = useSearchParams();
   const [products, setProducts] = useState<Product[]>([]);
   const [categories, setCategories] = useState<Category[]>([]);
   const [loading, setLoading] = useState(true);

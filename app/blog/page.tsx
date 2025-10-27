@@ -5,6 +5,9 @@ import Link from "next/link";
 import Image from "next/image";
 import { Calendar, Clock, User, ArrowRight, Search } from "lucide-react";
 
+// Force dynamic rendering for this page
+export const dynamic = 'force-dynamic';
+
 interface BlogPost {
   id: string;
   title: string;
